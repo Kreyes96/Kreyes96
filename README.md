@@ -1,19 +1,18 @@
-<h1 align="center">Hi 👋, I'm Kevin Reyes.</h1>
-<h3 align="center">A passionate junior Front-End developer from Nicaragua!</h3>
+<h1 align="center">Hello, I'm Kevin Reyes.</h1>
+<!-- <h3 align="center">A passionate junior Front-End developer from Nicaragua!</h3> -->
 
 - 🔭 I’m currently working on **Personal projects.**
 
-- 🌱 I’m currently learning **Laravel, React and Tailwind.**
-
-- 📫 How to reach me: **kreyesvelasquez@gmail.com**
+- 🌱 I’m currently learning **Web development.**
 
 - ⚡ Hobbies: **Videogames, anime and watch funny animal videos.**
 
----
+- 📫 How to reach me: **kreyesvelasquez@gmail.com**
 
-<h3 align="left">Languages and Tools</h3>
 
-<h4 align="left">Front-End:</h4>
+<h2 align="left">Skills</h2>
+
+<h3 align="left">Front-End:</h3>
 <p align="left">
    <!-- HTML5 -->
    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -27,29 +26,28 @@
    <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 </p>
 
-<h4 align="left">Design:</h4>
-<p align="left">
-   <!-- Photoshop -->
-   <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-   <!-- Adobe XD -->
-   <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
-</p>
-
-
-<h4 align="left">Back-End:</h4>
+<h3 align="left">Back-End:</h3>
 <p align="left">
    <!-- PHP -->
    </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
    <!-- Laravel -->
-   <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
+   <!-- <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> -->
    <!-- MySQL -->
    <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 </p>
 
-<h4 align="left">Other:</h4>
+<h3 align="left">Design:</h3>
+<p align="left">
+   <!-- Photoshop -->
+   <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
+   <!-- Adobe XD -->
+   <!-- <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> -->
+</p>
+
+<h3 align="left">Tools:</h3>
 <p align="left">
    <!-- Git -->
-   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+   <!-- <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> -->
    <!-- Gulp.js -->
    <a href="https://gulpjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a>
 </p>
